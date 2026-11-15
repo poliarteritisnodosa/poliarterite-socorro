@@ -1,25 +1,14 @@
-# UMA NOVA CHANCE · PAN — site para GitHub Pages
+# Uma Nova Chance · PAN — site completo
 
-## Como publicar
-1. Extraia o ZIP. Envie **o conteúdo interno** (index.html, conteudo-medico.js e assets) para a raiz do repositório no GitHub.
-2. Em Settings > Pages, selecione Deploy from a branch, main, / (root).
-3. Aguarde a publicação e teste o site no celular.
+Site estático pronto para GitHub Pages. Inclui conteúdo e imagens da versão anterior, mais 10 fotografias de lesões e 5 imagens de documentos médicos enviadas nesta atualização.
 
-## Fotos das feridas
-Coloque fotos autorizadas em `assets/feridas/`, por exemplo `foto01.jpg`. Abra `conteudo-medico.js` e adicione na lista `feridas`:
-```js
-{ titulo: "Ferida 01", arquivo: "assets/feridas/foto01.jpg", descricao: "Registro autorizado" },
-```
+## Publicar
+1. Crie um repositório no GitHub.
+2. Envie **o conteúdo desta pasta** para a raiz do repositório (index.html, conteudo-medico.js, assets/).
+3. Em Settings > Pages, escolha Deploy from a branch, branch main, pasta /(root), e salve.
+4. Aguarde a publicação e abra a URL indicada pelo GitHub.
 
-## Laudos médicos
-Coloque PDFs autorizados em `assets/laudos/`, por exemplo `laudo01.pdf`. No mesmo arquivo adicione à lista `relatorios`:
-```js
-{ titulo: "Laudo 01", arquivo: "assets/laudos/laudo01.pdf", descricao: "Documento autorizado" },
-```
-**Atenção:** colocar arquivos nas pastas sem atualizar `conteudo-medico.js` não os faz aparecer no site. Fotos ficam em área com aviso de conteúdo sensível. GitHub Pages é público: qualquer pessoa com o link do arquivo poderá acessá-lo, mesmo se houver aviso na página. Oculte dados sensíveis e publique apenas documentos que você deseja tornar públicos.
+## PRIVACIDADE — leia antes de publicar
+O botão Mostrar laudos só oculta visualmente os documentos. **Não é proteção por senha.** Todos os arquivos enviados a um repositório público podem ser acessados diretamente e copiados. Os laudos podem conter nomes, datas, números de exame, assinaturas e dados de saúde. Para manter os laudos realmente privados, remova os arquivos de assets/laudos/ e as referências em conteudo-medico.js ANTES de publicar; mantenha os originais em armazenamento privado. Verifique também as imagens e outros documentos já presentes.
 
-## Doações
-O site contém PIX com valor livre em BRL e imagens de QR Codes Wise em USD/EUR, provenientes da versão anterior. Confirme beneficiário e valor no aplicativo antes de divulgar. Teste o PIX com pequena quantia. O QR Code PIX depende de biblioteca externa; o código Copia e Cola é gerado localmente.
-
-## Conteúdo médico
-A seção Sobre a PAN contém informações educativas gerais e não substitui orientação médica. Revise a história pessoal e a documentação antes de publicar. A meta financeira não aparece no site.
+As fotografias não estabelecem por si só diagnóstico ou data. O site não substitui orientação médica.

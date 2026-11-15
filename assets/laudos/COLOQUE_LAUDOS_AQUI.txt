@@ -1,0 +1,1 @@
+Coloque nesta pasta os laudos autorizados em PDF. Oculte CPF, endereço, números de prontuário e dados de terceiros antes de publicar. Registre os nomes no conteudo-medico.js.
