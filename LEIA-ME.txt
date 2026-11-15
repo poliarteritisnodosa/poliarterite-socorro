@@ -1,0 +1,18 @@
+UMA NOVA CHANCE — CAMPANHA PAN
+
+1. Extraia o ZIP mantendo todos os arquivos juntos.
+2. Abra index.html no navegador.
+3. O site é bilíngue (PT/EN). A galeria exclusiva de feridas exige um clique para mostrar as fotografias.
+
+ANTES DE PUBLICAR
+- Confirme que deseja publicar as 18 fotos médicas em um site público.
+- Substitua SEU_EMAIL em index.html.
+- Revise datas e relato.
+- Insira PIX e dados internacionais apenas após confirmar a titularidade e as condições da instituição financeira.
+- Adicione meta e comprovantes sem dados pessoais.
+- O site não está hospedado nem processa pagamentos.
+- Pode ser hospedado em serviço gratuito de páginas estáticas.
+
+Foram incluídas 16 fotos adicionais. As datas são inferidas dos nomes dos arquivos; confirmar antes de publicar. As imagens adicionadas foram exportadas sem metadados EXIF.
+
+Versão ampliada: seções PAN, clínica Mount Sinai Toronto, esperança e compartilhamento. Imagem de esperança é ilustração original, não foto real. A clínica não confirmou atendimento ao autor.

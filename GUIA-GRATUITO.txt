@@ -1,0 +1,11 @@
+PUBLICAÇÃO 100% GRATUITA - Cloudflare Pages
+
+1. Acesse https://dash.cloudflare.com/ e crie uma conta gratuita.
+2. Vá em Workers & Pages > Create application > Pages > Drag and drop.
+3. Escolha um nome, por exemplo poliarterite-socorro. Se estiver disponível, seu endereço será https://poliarterite-socorro.pages.dev (exemplo, NÃO confirmado).
+4. Envie o conteúdo da pasta campanha_pan_site (index.html e todas as imagens) ou um ZIP contendo index.html na raiz.
+5. Clique Deploy site. Copie o endereço .pages.dev real que aparecer.
+6. Antes de divulgar, confirme dados médicos, autorização para tornar as fotos públicas e informações de doação.
+7. Wise pessoal: confirme com a Wise se a conta pode receber doações públicas; não publique dados sensíveis.
+
+IMPORTANTE: www.poliarteritesocorro.com NÃO é grátis por padrão; pages.dev é um subdomínio grátis. O site ainda não está online.

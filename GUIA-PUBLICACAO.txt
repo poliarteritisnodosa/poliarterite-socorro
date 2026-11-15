@@ -1,0 +1,31 @@
+PUBLICAÇÃO DO SITE — www.poliarteritesocorro.com
+
+1. CONFIRME A PROPRIEDADE DO DOMÍNIO
+O domínio .com precisa estar registrado em um registrador de domínios. A compra do domínio é separada da hospedagem e normalmente é paga anualmente.
+
+2. PUBLICAÇÃO GRÁTIS NO CLOUDFLARE PAGES
+Entre em https://dash.cloudflare.com/ e crie uma conta.
+No menu Workers & Pages, crie um projeto Pages com upload direto (Direct Upload).
+Extraia este ZIP e envie o CONTEÚDO da pasta campanha_pan_site (index.html, fotos, SVG etc.), não apenas o ZIP se o fluxo exigir pasta.
+Depois de publicar, teste o endereço temporário terminado em pages.dev.
+
+3. DOMÍNIO PERSONALIZADO
+Em seu projeto Pages > Custom domains, adicione poliarteritesocorro.com e www.poliarteritesocorro.com.
+Para o domínio raiz, adicione o domínio como zona Cloudflare e aponte os nameservers no registrador conforme instruções mostradas pela Cloudflare.
+Aguarde validação do DNS/HTTPS. Defina www como endereço principal, se preferir.
+
+4. WISE
+Na conta Wise, verifique se sua modalidade de conta permite receber contribuições públicas.
+A Wise oferece Wisetag/links de pagamento em contas elegíveis; a modalidade Business tem opção de link aberto para sites.
+Copie apenas o link público aprovado (nunca senha, códigos, números de cartão, documentos).
+Substitua o aviso 'Configuração pendente' por um botão que abra o link oficial validado.
+Não é necessário inserir senhas nem conectar o login da Wise ao HTML.
+
+5. PIX E CONTATO
+Substitua SEU_EMAIL e links mailto:SEU_EMAIL por um endereço real de contato.
+Insira sua chave PIX somente após decidir o dado público adequado e validar o recebimento.
+
+6. CONFERÊNCIAS ANTES DE DIVULGAR
+Confira datas e informações médicas, autorização de divulgação das fotos, domínio, links de pagamento, idioma inglês e português, funcionamento no celular.
+A meta US$ 1.000.000 é apresentada como objetivo da campanha, não orçamento médico confirmado.
+O site NÃO está publicado automaticamente com este ZIP.
