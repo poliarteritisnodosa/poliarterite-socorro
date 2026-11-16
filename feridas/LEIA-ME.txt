@@ -1,0 +1,1 @@
+Coloque aqui os arquivos médicos autorizados. Atualize conteudo-medico.js na raiz do site.

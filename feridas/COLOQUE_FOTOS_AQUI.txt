@@ -1,0 +1,1 @@
+Coloque nesta pasta as fotos autorizadas (.jpg, .png, .webp). Depois registre cada nome no conteudo-medico.js.
